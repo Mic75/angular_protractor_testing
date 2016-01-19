@@ -1,0 +1,28 @@
+{
+  "name": "angular_e2e",
+  "version": "0.0.1",
+  "description": "Testing protractor for angular end-to-end testing",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mic75/angular_protractor_testing.git"
+  },
+  "keywords": [
+    "end-to-end",
+    "tests",
+    "protractor",
+    "angular"
+  ],
+  "author": "mbenard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mic75/angular_protractor_testing/issues"
+  },
+  "homepage": "https://github.com/Mic75/angular_protractor_testing#readme",
+  "devDependencies": {
+    "protractor": "^3.0.0",
+    "run-headless-chromium": "0.0.13"
+  }
+}
